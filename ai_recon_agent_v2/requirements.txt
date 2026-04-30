@@ -1,0 +1,5 @@
+flask>=3.0.0
+python-whois>=0.9.4
+dnspython>=2.6.1
+requests>=2.32.0
+urllib3>=2.2.0
